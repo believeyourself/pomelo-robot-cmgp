@@ -9,7 +9,7 @@
     "pomelo-protocol": "0.1.0",
     "socket.io": "0.9.13",
     "socket.io-client": "0.9.11",
-    "underscore": "1.4.4"
+    "underscore": "1.12.1"
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.19",
